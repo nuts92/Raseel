@@ -17,7 +17,7 @@ All the drawable resources used in this project are all MIT Licensed which are f
 
 
 ![](https://i.imgur.com/cYMbr4O.png?1)
-![](https://i.imgur.com/cYMbr4O.png?1) ![](https://i.imgur.com/f4Mt6hA.png)
+![](https://i.imgur.com/cYMbr4O.png?1) ![](https://i.imgur.com/f4Mt6hA.png | width=300)
 
 
 
