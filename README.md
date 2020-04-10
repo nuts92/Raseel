@@ -16,7 +16,7 @@ any of them, a pop up card/dialog shows up displaying the information and also a
 All the drawable resources used in this project are all MIT Licensed which are free of Copyrights and can be used without attributions. To use this repository, fork/clone it, or download a zip using the green "Clone or download" button at the top of the file list.  
 
 
-![Alt text](https://drive.google.com/uc?id=1LHev51vRv_YviO9s0u5LSGn9dks3QJbh)
+![](https://drive.google.com/uc?id=1LHev51vRv_YviO9s0u5LSGn9dks3QJbh)
 
 
 
