@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Courier Number</string>
+
+    <!-- A list of strings for the services offered by the company -->
+
+    <string name="service_one_title">Same Day Delivery</string>
+    <string name="service_one_description">Why wait for the Next Day! We pick up your items and deliver them to your Customers on the Same Day.</string>
+    <string name="service_two_title">Free cash Collection</string>
+    <string name="service_two_description">Your Customers don’t pay with Credit Cards! No Problem, We collect Cash from them without any Extra Cost.</string>
+    <string name="service_three_title">Lowest Price</string>
+    <string name="service_three_description">Always Looking for the Best Possible Deal? We offer you the Lowest Price on the Market for the Same Day Delivery!</string>
+    <string name="service_four_title">Package Insurance</string>
+    <string name="service_four_description">We have a Solid Insurance Policy against any Lost Package or Damaged One. This means your Orders are Quite Safe with Us!</string>
+    <string name="service_five_title">Orders Tracking</string>
+    <string name="service_five_description">Your Online Order’s Shipping Status is always within reach. Now track all your orders through our Smart Online Platform.</string>
+    <string name="service_six_title">Great Customer Service</string>
+    <string name="service_six_description">Our Personnel are Highly Trained to handle any Inquires that may arise. Also, they can respond to Customers\' Special Requests.</string>
+
+
+    <!-- A list of Strings for the home page titles -->
+    <string name="raseel_introduction">Same Day Delivery is now Available for Your Business!</string>
+    <string name="what_we_do_title">What We Do</string>
+    <string name="get_in_touch_title">Get In Touch With Us</string>
+
+
+    <!-- A list of Strings for the pop up card including the phone, the email, the address and the working hours-->
+    <string name="phone_card_introduction">If you\'re interested about how we can help you, Just give us a call and we\'ll be glad to answer your Inquiry.</string>
+    <string name="phone_number">+20226079434 \n+201285051011</string>
+    <string name="email_card_introduction">If you have an Inquiry or want to know more about our Price Quotes, Just send us an Email!</string>
+    <string name="email">team@raseelapp.com</string>
+    <string name="address">Our Office Location: 138 El-Banafseg Fifth Settlement, New Cairo, Cairo, Egypt.</string>
+    <string name="working_hours">Our Working Hours: Sunday to Thursday from 9 am to 5 pm.</string>
+
+    <!-- A list of Strings for the pop up card button -->
+
+    <string name="call_button">Give Us A Call</string>
+    <string name="email_button">Send Us An Email</string>
+
+    <!-- A list of Strings for the email recipient and email subject -->
+    <string name="email_subject">A Client Inquiry regarding Raseel\'s Services</string>
+    <string name="email_recipient">team@raseelapp.com</string>
+
+
+
+</resources>
