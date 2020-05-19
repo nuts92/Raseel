@@ -21,6 +21,22 @@ To use this repository, fork/clone it, or download a zip using the green "Clone 
 ### Screenshots
 <img src="https://i.imgur.com/f4Mt6hA.png" width="300"> <img src="https://i.imgur.com/DAZDQGX.png" width="300"> <img src="https://i.imgur.com/ComMcQE.png" width="300"> <img src="https://i.imgur.com/GtNpwrf.png" width="300"> <img src="https://i.imgur.com/esVYfRB.png" width="300"> <img src="https://i.imgur.com/3pcvrXB.png" width="300">
 
+### License
+
+Copyright 2020 Doha Nabil Saad Kash
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
 
 
 
